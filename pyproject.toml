@@ -1,5 +1,5 @@
 [project]
-name = "yfmcp"
+name = "yfmcp2"
 version = "0.4.8"
 description = ""
 readme = "README.md"
@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.scripts]
-yfmcp = "yfmcp.server:main"
+yfmcp2 = "yfmcp2.server:main"
 
 [build-system]
 requires = ["hatchling"]
